@@ -1,15 +1,6 @@
 <snippet>
 	<content><![CDATA[
-/**
-*
-* @file  $TM_FILEPATH
-* @author  $TM_FULLNAME
-* @description
-*
-*/
-
-component output="${1:false}" displayname="$2"  {
-
+component {
 	public function init(){
 		return this;
 	}

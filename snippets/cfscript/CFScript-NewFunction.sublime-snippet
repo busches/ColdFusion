@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-
 ${1:public} ${2:any} function ${3:function_name}(${4:param}) {
 	$5
 	return;

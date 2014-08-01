@@ -2,13 +2,9 @@
 	<content><![CDATA[
 try {
 $SELECTION
+} catch (any e) {
+	$1;
 }
-catch(${1:type} ${2:variable}) {
-	$3;
-} finally {
-
-}
-
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>try</tabTrigger>
