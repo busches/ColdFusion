@@ -1086,7 +1086,8 @@
                     |threadjoin|threadterminate|throw|timeformat|tobase64|tobinary|toscript|tostring|trace|transactioncommit
                     |transactionrollback|transactionsetsavepoint|trim|ucase|urldecode|urlencodedformat|urlsessionformat
                     |val|valuelist|verifyclient|week|wrap|writedump|writelog|writeoutput|xmlchildpos|xmlelemnew
-                    |xmlformat|xmlgetnodetype|xmlnew|xmlparse|xmlsearch|xmltransform|xmlvalidate|year|yesnoformat)
+                    |xmlformat|xmlgetnodetype|xmlnew|xmlparse|xmlsearch|xmltransform|xmlvalidate|year|yesnoformat
+                    |setdbtype|setattributes|addparam|execute|getresult)
                     |
                     (\w+)
                 )
